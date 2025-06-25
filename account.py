@@ -1,0 +1,6 @@
+acc_name=input()
+acc_number=int(input())
+acc_balance=float(input())
+print('Account Name: ',acc_name)
+print('Account Number: ',acc_number)
+print(f'Balance: {acc_balance:.2f}')
