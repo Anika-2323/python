@@ -1,0 +1,1 @@
+A line can be defined as a straight set of points that extend in opposite directions. It has no ends in both directions(infinite) It has no thickness. it is one-dimensional.
